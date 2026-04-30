@@ -72,8 +72,8 @@ RAG：基于向量数据库的知识检索
 
 如果你对项目感兴趣，欢迎交流与合作！
 
-Email: your_email@example.com
-GitHub: https://github.com/yourname
+Email: 
+GitHub: https://github.com/
 ⚠️ 免责声明
 
 本项目仅用于学习与效率提升，不鼓励或支持学术不端行为。所有生成内容需由用户自行审核与修改。
